@@ -3,5 +3,15 @@
     "tytul": "egzamin",
     "tresc": "w czerwcu jest egzamin",
     "data": "04.06.2027"
+  },
+  {
+    "tytul": "zadanie z matematyki",
+    "tresc": "zad 1, 2, 3",
+    "data": "13.10.2026"
+  },
+  {
+    "tytul": "spotkanie samorzadu",
+    "tresc": "spotkanie w sali 203",
+    "data": "16.10.2026"
   }
 ]
